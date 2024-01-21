@@ -2,4 +2,4 @@
 user_input_1 = input('Can you please give me a number ')
 user_input_2 = input('And another one ')
 user_input_product = {user_input_1} * {user_input_2}
-print (user_input_product) 
+print (user_input_product)  
