@@ -4,6 +4,6 @@ user_input_2 = input('And another one ')
 user_input_product = float(user_input_1)*float(user_input_2)
 
 if user_input_product <= 1000: 
-    print (user_input_product)
+    print ('The product ', {user_input_product})
 else:
-    print (float(user_input_1) + float(user_input_2))
+    print ('The sum is ',(float(user_input_1) + float(user_input_2)))
